@@ -10,7 +10,7 @@ jupyter = "*"
 matplotlib = "*"
 
 [dev-packages]
-pyspark = "==2.4.0"
+pyspark = "==3.2.2"
 ipython = "*"
 "flake8" = "*"
 
